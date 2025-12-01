@@ -95,7 +95,7 @@ Google Colab for training
 
 <img width="1080" height="522" alt="image" src="https://github.com/user-attachments/assets/1d6d7fc4-848b-447f-9d0d-56929e496a65" />
 
-**MANGODB ATLAS**
+**MONGODB ATLAS**
 
 <img width="1911" height="927" alt="image" src="https://github.com/user-attachments/assets/eb26108d-8da9-4f7d-ae19-caf5cef76f83" />
 
