@@ -1,0 +1,26 @@
+# 1. Dependencies (Very Heavy)
+node_modules/
+jspm_packages/
+venv/
+.venv/
+
+# 2. Build Outputs (Never commit these)
+.next/
+dist/
+build/
+out/
+.vercel/
+
+# 3. Large Media & Local Data
+*.mp4
+*.mov
+*.zip
+*.tar
+*.iso
+*.log
+local_data/
+
+# 4. Environment Variables (Security)
+.env
+.env.local
+.env.*.local
